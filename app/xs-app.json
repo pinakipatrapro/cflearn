@@ -1,0 +1,18 @@
+{
+    "welcomeFile": "index.html",
+    "authenticationMethod": "none",
+    "routes": [
+        {
+            "source": "^/srv/(.*)$",
+            "authenticationType": "none",
+            "scope": "uaa.user",
+            "destination": "srv"
+        },
+        {
+            "source": "/(.*)",
+            "authenticationType": "none",
+            "scope": "uaa.user",
+            "localDir": "resource"
+        }
+    ]
+}

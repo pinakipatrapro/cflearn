@@ -1,0 +1,36 @@
+ID: nodetrial1
+_schema-version: "3.1"
+version: 0.0.1
+
+modules:
+  - name: nodetrial1-srv
+    type: nodejs
+    path: srv
+    parameters:
+      memory : 128M
+      disk-quota : 512M
+    provides:
+      - name: srv_api
+        properties : 
+          url : ${default-url}
+    requires:
+      - name: my-destination-instance
+
+  - name: nodetrial1
+    type: html5
+    path : app
+    parameters:
+      memory : 128M
+      disk-quota : 256M
+    requires:
+      - name: srv_api
+        group : destinations
+        properties:
+          name: srv
+          url: ~{url}
+          forwardAuthToken: true
+
+resources:
+  - name: my-destination-instance
+    type: destination
+

@@ -1,0 +1,34 @@
+{
+    "VCAP_SERVICES": {
+        "destination": [
+            {
+                "name": "my-destination-instance",
+                "instance_name": "my-destination-instance",
+                "label": "destination",
+                "tags": [
+                    "destination",
+                    "conn",
+                    "connsvc",
+                    "endpoint:https://api.cf.eu10.hana.ondemand.com",
+                    "org:6c5ec066trial",
+                    "space:dev"
+                ],
+                "plan": "lite",
+                "credentials": {
+                    "clientid": "sb-cloneb7fa594e51df4bc0a47e5fa3c72e5a92!b72587|destination-xsappname!b404",
+                    "clientsecret": "03f751e9-942e-445a-9854-facd9804eae2$m1eevdk7riU85uIMptvDmpRho-KLyRLuwyDP0052Xro=",
+                    "identityzone": "6c5ec066trial",
+                    "instanceid": "b7fa594e-51df-4bc0-a47e-5fa3c72e5a92",
+                    "service_key_name": "key",
+                    "tenantid": "4062b8e8-ea1c-490e-8f06-d965b5d09b14",
+                    "tenantmode": "dedicated",
+                    "uaadomain": "authentication.eu10.hana.ondemand.com",
+                    "uri": "https://destination-configuration.cfapps.eu10.hana.ondemand.com",
+                    "url": "https://6c5ec066trial.authentication.eu10.hana.ondemand.com",
+                    "verificationkey": "-----BEGIN PUBLIC KEY-----MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs3zhVcs87aPsMXjunVJrlcTJ62K835Jt/W8hmcMezNlnpKgUsVIFmO4Fw72xaWy5kjwnkidW1SYzdYPrufGN61jQHB0OV6KuKYyAfBqzasRZQzySM5Ca0ARAzxgCzX90w2anGZZMEX6JPmoC+QO4ILrccPyntN6/L44CBp8XOf7rfEDa0gIdRL7v6+aFM0Xy3FQ82CzZmUtcNCW5TUv4d4SwW5tSe7Fq+nHrwKZpk1tOSaFokkbzTq8Nh+E31Icopn1ivE33dTLUgrxbf8rkxeA4qnV8IzUpvmI0ZXh1f991IYXzuH2azJtJTFHKc88UXnm6xl3RY9JJgCVMtsbwWQIDAQAB-----END PUBLIC KEY-----",
+                    "xsappname": "cloneb7fa594e51df4bc0a47e5fa3c72e5a92!b72587|destination-xsappname!b404"
+                }
+            }
+        ]
+    }
+}
