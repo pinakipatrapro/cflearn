@@ -2,3 +2,6 @@
 # auto generated wildcard
 nodetrial1/.env
 node_modules/
+
+# auto generated wildcard
+nodetrial1/srv/.env

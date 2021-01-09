@@ -1,10 +1,10 @@
 {
     "welcomeFile": "index.html",
-    "authenticationMethod": "none",
+    "authenticationMethod": "route",
     "routes": [
         {
             "source": "^/srv/(.*)$",
-            "authenticationType": "none",
+            "authenticationType": "xsuaa",
             "scope": "uaa.user",
             "destination": "srv"
         },
