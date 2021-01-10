@@ -8,3 +8,7 @@ nodetrial1/srv/.env
 
 
 mta_archives/
+# auto generated wildcard
+db/.env
+# auto generated wildcard
+srv/.env

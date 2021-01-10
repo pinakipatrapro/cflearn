@@ -2,8 +2,8 @@
     "VCAP_SERVICES": {
         "xsuaa": [
             {
-                "name": "myappuaa-uaa-local",
-                "instance_name": "myappuaa-uaa-local",
+                "name": "nodetrial-uaa-local",
+                "instance_name": "nodetrial-uaa-local",
                 "label": "xsuaa",
                 "tags": [
                     "xsuaa",
@@ -14,8 +14,8 @@
                 "plan": "application",
                 "credentials": {
                     "apiurl": "https://api.authentication.eu10.hana.ondemand.com",
-                    "clientid": "sb-myappuaa-local!t72587",
-                    "clientsecret": "zU3ogm6LdioxTFq1zXJxRMXpbsU=",
+                    "clientid": "sb-nodetrial-uaa-local!t72587",
+                    "clientsecret": "OlmQXQVpyg5Qpu6VTzT5saEcltg=",
                     "identityzone": "6c5ec066trial",
                     "identityzoneid": "4062b8e8-ea1c-490e-8f06-d965b5d09b14",
                     "sburl": "https://internal-xsuaa.authentication.eu10.hana.ondemand.com",
@@ -26,7 +26,7 @@
                     "uaadomain": "authentication.eu10.hana.ondemand.com",
                     "url": "https://6c5ec066trial.authentication.eu10.hana.ondemand.com",
                     "verificationkey": "-----BEGIN PUBLIC KEY-----MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs3zhVcs87aPsMXjunVJrlcTJ62K835Jt/W8hmcMezNlnpKgUsVIFmO4Fw72xaWy5kjwnkidW1SYzdYPrufGN61jQHB0OV6KuKYyAfBqzasRZQzySM5Ca0ARAzxgCzX90w2anGZZMEX6JPmoC+QO4ILrccPyntN6/L44CBp8XOf7rfEDa0gIdRL7v6+aFM0Xy3FQ82CzZmUtcNCW5TUv4d4SwW5tSe7Fq+nHrwKZpk1tOSaFokkbzTq8Nh+E31Icopn1ivE33dTLUgrxbf8rkxeA4qnV8IzUpvmI0ZXh1f991IYXzuH2azJtJTFHKc88UXnm6xl3RY9JJgCVMtsbwWQIDAQAB-----END PUBLIC KEY-----",
-                    "xsappname": "myappuaa-local!t72587",
+                    "xsappname": "nodetrial-uaa-local!t72587",
                     "zoneid": "4062b8e8-ea1c-490e-8f06-d965b5d09b14"
                 }
             }
@@ -46,10 +46,10 @@
                 ],
                 "plan": "lite",
                 "credentials": {
-                    "clientid": "sb-cloneb7fa594e51df4bc0a47e5fa3c72e5a92!b72587|destination-xsappname!b404",
-                    "clientsecret": "03f751e9-942e-445a-9854-facd9804eae2$m1eevdk7riU85uIMptvDmpRho-KLyRLuwyDP0052Xro=",
+                    "clientid": "sb-cloneb86004bb843a4fc3b268073c60751f72!b72587|destination-xsappname!b404",
+                    "clientsecret": "76176c1e-a4c7-4d12-9a8a-be88678c232e$l1UkNlh17xqgSI0X5Gp1BRTd6ZMpwSDwfS1LZMUd65s=",
                     "identityzone": "6c5ec066trial",
-                    "instanceid": "b7fa594e-51df-4bc0-a47e-5fa3c72e5a92",
+                    "instanceid": "b86004bb-843a-4fc3-b268-073c60751f72",
                     "service_key_name": "key",
                     "tenantid": "4062b8e8-ea1c-490e-8f06-d965b5d09b14",
                     "tenantmode": "dedicated",
@@ -57,7 +57,36 @@
                     "uri": "https://destination-configuration.cfapps.eu10.hana.ondemand.com",
                     "url": "https://6c5ec066trial.authentication.eu10.hana.ondemand.com",
                     "verificationkey": "-----BEGIN PUBLIC KEY-----MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAs3zhVcs87aPsMXjunVJrlcTJ62K835Jt/W8hmcMezNlnpKgUsVIFmO4Fw72xaWy5kjwnkidW1SYzdYPrufGN61jQHB0OV6KuKYyAfBqzasRZQzySM5Ca0ARAzxgCzX90w2anGZZMEX6JPmoC+QO4ILrccPyntN6/L44CBp8XOf7rfEDa0gIdRL7v6+aFM0Xy3FQ82CzZmUtcNCW5TUv4d4SwW5tSe7Fq+nHrwKZpk1tOSaFokkbzTq8Nh+E31Icopn1ivE33dTLUgrxbf8rkxeA4qnV8IzUpvmI0ZXh1f991IYXzuH2azJtJTFHKc88UXnm6xl3RY9JJgCVMtsbwWQIDAQAB-----END PUBLIC KEY-----",
-                    "xsappname": "cloneb7fa594e51df4bc0a47e5fa3c72e5a92!b72587|destination-xsappname!b404"
+                    "xsappname": "cloneb86004bb843a4fc3b268073c60751f72!b72587|destination-xsappname!b404"
+                }
+            }
+        ],
+        "hanatrial": [
+            {
+                "name": "hdi-nodetrial1-local",
+                "instance_name": "hdi-nodetrial1-local",
+                "label": "hanatrial",
+                "tags": [
+                    "hana",
+                    "database",
+                    "relational",
+                    "endpoint:https://api.cf.eu10.hana.ondemand.com",
+                    "org:6c5ec066trial",
+                    "space:dev"
+                ],
+                "plan": "hdi-shared",
+                "credentials": {
+                    "certificate": "-----BEGIN CERTIFICATE-----\nMIIDrzCCApegAwIBAgIQCDvgVpBCRrGhdWrJWZHHSjANBgkqhkiG9w0BAQUFADBh\nMQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMRkwFwYDVQQLExB3\nd3cuZGlnaWNlcnQuY29tMSAwHgYDVQQDExdEaWdpQ2VydCBHbG9iYWwgUm9vdCBD\nQTAeFw0wNjExMTAwMDAwMDBaFw0zMTExMTAwMDAwMDBaMGExCzAJBgNVBAYTAlVT\nMRUwEwYDVQQKEwxEaWdpQ2VydCBJbmMxGTAXBgNVBAsTEHd3dy5kaWdpY2VydC5j\nb20xIDAeBgNVBAMTF0RpZ2lDZXJ0IEdsb2JhbCBSb290IENBMIIBIjANBgkqhkiG\n9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4jvhEXLeqKTTo1eqUKKPC3eQyaKl7hLOllsB\nCSDMAZOnTjC3U/dDxGkAV53ijSLdhwZAAIEJzs4bg7/fzTtxRuLWZscFs3YnFo97\nnh6Vfe63SKMI2tavegw5BmV/Sl0fvBf4q77uKNd0f3p4mVmFaG5cIzJLv07A6Fpt\n43C/dxC//AH2hdmoRBBYMql1GNXRor5H4idq9Joz+EkIYIvUX7Q6hL+hqkpMfT7P\nT19sdl6gSzeRntwi5m3OFBqOasv+zbMUZBfHWymeMr/y7vrTC0LUq7dBMtoM1O/4\ngdW7jVg/tRvoSSiicNoxBN33shbyTApOB6jtSj1etX+jkMOvJwIDAQABo2MwYTAO\nBgNVHQ8BAf8EBAMCAYYwDwYDVR0TAQH/BAUwAwEB/zAdBgNVHQ4EFgQUA95QNVbR\nTLtm8KPiGxvDl7I90VUwHwYDVR0jBBgwFoAUA95QNVbRTLtm8KPiGxvDl7I90VUw\nDQYJKoZIhvcNAQEFBQADggEBAMucN6pIExIK+t1EnE9SsPTfrgT1eXkIoyQY/Esr\nhMAtudXH/vTBH1jLuG2cenTnmCmrEbXjcKChzUyImZOMkXDiqw8cvpOp/2PV5Adg\n06O/nVsJ8dWO41P0jmP6P6fbtGbfYmbW0W5BjfIttep3Sp+dWOIrWcBAI+0tKIJF\nPnlUkiaY4IBIqDfv8NZ5YBberOgOzW6sRBc4L0na4UU+Krk2U886UAb3LujEV0ls\nYSEY1QSteDwsOoBrp+uvFRTp2InBuThs4pFsiv9kuXclVzDAGySj4dzp30d8tbQk\nCAUw7C29C79Fv1C5qfPrmAESrciIxpg0X40KPMbp1ZWVbd4=\n-----END CERTIFICATE-----\n",
+                    "driver": "com.sap.db.jdbc.Driver",
+                    "hdi_password": "Ti91dH0VIU1n9_46LwKJ_85usQ6N.OoRIFVRGnecDjefCUqUazVm9W5wdkOmSN.Nww8j_D-bDO1k.su2ReUh_HDm2Gi_uMDpodkMqJuQJw8nuPDLDCGsg530qoWD09Uh",
+                    "hdi_user": "45561CCE3C934C38BC26F8FFC646AF53_C5R7VQVB8B6KD4PNZF9YWEWC0_DT",
+                    "host": "zeus.hana.prod.eu-central-1.whitney.dbaas.ondemand.com",
+                    "password": "Oa8a4QaFP1aEkv_M699qePM4p41CSo1FWqPqhpzgSi9SEouERg85dnWmH_ZOwtxhz1AJtc8mUm.-U09GVx_5OVq6jU9XA-Nj3f3nZ._2sNt4tx4.nJeDOF6Vu2hPV2t_",
+                    "port": "23803",
+                    "schema": "45561CCE3C934C38BC26F8FFC646AF53",
+                    "service_key_name": "key",
+                    "url": "jdbc:sap://zeus.hana.prod.eu-central-1.whitney.dbaas.ondemand.com:23803?encrypt=true\u0026validateCertificate=true\u0026currentschema=45561CCE3C934C38BC26F8FFC646AF53",
+                    "user": "45561CCE3C934C38BC26F8FFC646AF53_C5R7VQVB8B6KD4PNZF9YWEWC0_RT"
                 }
             }
         ]

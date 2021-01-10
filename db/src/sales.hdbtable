@@ -1,0 +1,7 @@
+COLUMN TABLE "nodetrial1.db::sales"(
+  "id" INTEGER,
+  "region" VARCHAR(100),
+  "country" VARCHAR(100),
+  "amount" INTEGER,
+  PRIMARY KEY("id")
+)

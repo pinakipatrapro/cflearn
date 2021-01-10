@@ -2,12 +2,22 @@ _schema-version: "3.1"
 ID: nodetrial1
 version: 0.0.1
 modules:
+- name: nodetrial1-db
+  type: hdb
+  path: db
+  parameters:
+    memory: 128M
+    disk-quota: 256M
+  requires:
+    - name: hdi-nodetrial1-local
+    
 - name: nodetrial1-srv
   type: nodejs
   path: srv
   requires:
   - name: my-destination-instance
   - name: myappuaa-uaa
+  - name: hdi-nodetrial1-local
   provides:
   - name: srv_api
     properties:
@@ -15,6 +25,7 @@ modules:
   parameters:
     disk-quota: 512M
     memory: 128M
+
 - name: nodetrial1
   type: html5
   path: app
@@ -29,11 +40,9 @@ modules:
   parameters:
     disk-quota: 256M
     memory: 128M
-- name: db
-  type: hdb
-  path: db
-  requires:
-  - name: hdi_db
+
+
+
 resources:
 - name: myappuaa-uaa
   type: org.cloudfoundry.managed-service
@@ -43,10 +52,8 @@ resources:
     service-plan: application
 - name: my-destination-instance
   type: destination
-- name: hdi_db
+
+- name: hdi-nodetrial1-local
   type: com.sap.xs.hdi-container
-  parameters:
-    config:
-      schema: nodetrial1
   properties:
     hdi-container-name: ${service-name}

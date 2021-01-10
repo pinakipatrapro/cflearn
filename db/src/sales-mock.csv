@@ -1,0 +1,1001 @@
+id,region,country,amount
+1,California,United States,2038
+2,Hawaii,United States,6281
+3,Minnesota,United States,1376
+4,Utah,United States,9443
+5,Colorado,United States,6427
+6,Tennessee,United States,3842
+7,Pennsylvania,United States,4665
+8,District of Columbia,United States,6547
+9,Virginia,United States,7779
+10,Alabama,United States,9843
+11,California,United States,9312
+12,Colorado,United States,6219
+13,Florida,United States,6591
+14,Virginia,United States,1665
+15,North Carolina,United States,3696
+16,Maryland,United States,2353
+17,Connecticut,United States,2082
+18,Texas,United States,3897
+19,California,United States,5480
+20,California,United States,9336
+21,Indiana,United States,2485
+22,Minnesota,United States,8255
+23,Minnesota,United States,7734
+24,Washington,United States,5030
+25,California,United States,3836
+26,Michigan,United States,7971
+27,Texas,United States,3382
+28,Florida,United States,9876
+29,Ohio,United States,2545
+30,Florida,United States,9142
+31,California,United States,6092
+32,Texas,United States,3356
+33,North Carolina,United States,8154
+34,California,United States,5407
+35,Colorado,United States,8316
+36,California,United States,8966
+37,California,United States,4263
+38,Texas,United States,8600
+39,Florida,United States,1854
+40,Florida,United States,2937
+41,Oklahoma,United States,1774
+42,Florida,United States,5222
+43,Missouri,United States,4885
+44,California,United States,2793
+45,New York,United States,4678
+46,Florida,United States,6266
+47,Texas,United States,5951
+48,Texas,United States,9213
+49,Louisiana,United States,8039
+50,New York,United States,9843
+51,Wisconsin,United States,3813
+52,California,United States,9863
+53,Georgia,United States,5755
+54,Alabama,United States,9673
+55,Michigan,United States,6926
+56,Missouri,United States,4573
+57,California,United States,7896
+58,Alaska,United States,9288
+59,Kentucky,United States,3901
+60,Nevada,United States,8887
+61,District of Columbia,United States,8928
+62,Pennsylvania,United States,7400
+63,Texas,United States,8487
+64,Texas,United States,8957
+65,Texas,United States,7487
+66,Arizona,United States,1587
+67,California,United States,6734
+68,Ohio,United States,4239
+69,Texas,United States,5733
+70,Washington,United States,5939
+71,California,United States,3566
+72,Illinois,United States,7780
+73,Virginia,United States,4675
+74,Louisiana,United States,1111
+75,Texas,United States,2809
+76,Florida,United States,6849
+77,Texas,United States,6559
+78,Connecticut,United States,8358
+79,Texas,United States,8079
+80,New York,United States,4221
+81,California,United States,3707
+82,Tennessee,United States,9630
+83,Ohio,United States,1216
+84,Illinois,United States,5417
+85,North Carolina,United States,8500
+86,Pennsylvania,United States,8704
+87,Texas,United States,6880
+88,Alabama,United States,1744
+89,Kansas,United States,9281
+90,California,United States,3957
+91,Alabama,United States,9914
+92,Virginia,United States,2394
+93,Colorado,United States,3995
+94,Missouri,United States,7037
+95,California,United States,4303
+96,New York,United States,6132
+97,Massachusetts,United States,5575
+98,Alabama,United States,3146
+99,Florida,United States,9656
+100,Delaware,United States,8712
+101,Michigan,United States,2149
+102,Virginia,United States,8498
+103,Texas,United States,2244
+104,Georgia,United States,7869
+105,New York,United States,3161
+106,Missouri,United States,4717
+107,Massachusetts,United States,4086
+108,California,United States,3172
+109,Texas,United States,2079
+110,Texas,United States,6775
+111,Florida,United States,4831
+112,Virginia,United States,2312
+113,Washington,United States,1708
+114,Florida,United States,5050
+115,Washington,United States,6143
+116,West Virginia,United States,1602
+117,District of Columbia,United States,9941
+118,Florida,United States,5491
+119,Nevada,United States,6782
+120,Florida,United States,3121
+121,New York,United States,2543
+122,Illinois,United States,5062
+123,Virginia,United States,3806
+124,Colorado,United States,2660
+125,West Virginia,United States,3332
+126,Arizona,United States,8594
+127,Alabama,United States,1396
+128,Ohio,United States,6133
+129,Oklahoma,United States,9834
+130,North Carolina,United States,9399
+131,California,United States,8539
+132,Minnesota,United States,8826
+133,District of Columbia,United States,3248
+134,Virginia,United States,3458
+135,Ohio,United States,7517
+136,Utah,United States,7037
+137,Kansas,United States,1612
+138,Florida,United States,5329
+139,Texas,United States,6404
+140,Nebraska,United States,4462
+141,Idaho,United States,8835
+142,Kansas,United States,2903
+143,Florida,United States,1175
+144,Pennsylvania,United States,9530
+145,Florida,United States,8018
+146,Georgia,United States,4149
+147,Ohio,United States,4432
+148,Texas,United States,2471
+149,Washington,United States,3658
+150,Florida,United States,5034
+151,Florida,United States,4528
+152,Maryland,United States,5813
+153,West Virginia,United States,7568
+154,South Carolina,United States,1458
+155,Montana,United States,9950
+156,Florida,United States,8239
+157,Texas,United States,2545
+158,Indiana,United States,9790
+159,North Carolina,United States,7398
+160,Delaware,United States,4355
+161,Nevada,United States,1565
+162,Louisiana,United States,3107
+163,District of Columbia,United States,9098
+164,Texas,United States,8109
+165,Arizona,United States,7288
+166,California,United States,7342
+167,Idaho,United States,8455
+168,California,United States,6285
+169,New York,United States,1420
+170,Florida,United States,9782
+171,Wisconsin,United States,9794
+172,Pennsylvania,United States,8182
+173,Pennsylvania,United States,8485
+174,Texas,United States,7676
+175,Washington,United States,4122
+176,California,United States,4832
+177,Florida,United States,3191
+178,Virginia,United States,8005
+179,Maryland,United States,8193
+180,Ohio,United States,5177
+181,Arizona,United States,5127
+182,Indiana,United States,9840
+183,Ohio,United States,9814
+184,Minnesota,United States,8141
+185,Tennessee,United States,2910
+186,Alabama,United States,2755
+187,Washington,United States,4877
+188,North Carolina,United States,7607
+189,Utah,United States,6852
+190,Oklahoma,United States,5537
+191,Florida,United States,4983
+192,Illinois,United States,7201
+193,Maryland,United States,5237
+194,Missouri,United States,5625
+195,Minnesota,United States,5744
+196,California,United States,1584
+197,Michigan,United States,7713
+198,Ohio,United States,5400
+199,California,United States,7931
+200,Wisconsin,United States,3040
+201,Texas,United States,6358
+202,Missouri,United States,5324
+203,Illinois,United States,8306
+204,District of Columbia,United States,7009
+205,Florida,United States,6515
+206,Georgia,United States,5169
+207,Virginia,United States,5350
+208,Iowa,United States,4246
+209,Texas,United States,4869
+210,California,United States,8855
+211,Kentucky,United States,5105
+212,Washington,United States,8326
+213,Texas,United States,5280
+214,Texas,United States,8005
+215,Kansas,United States,2243
+216,Alaska,United States,6027
+217,Virginia,United States,6628
+218,Missouri,United States,5877
+219,Pennsylvania,United States,1795
+220,New York,United States,8892
+221,Michigan,United States,7943
+222,Texas,United States,8750
+223,Iowa,United States,8459
+224,Texas,United States,6148
+225,New Mexico,United States,8317
+226,Washington,United States,1083
+227,Alaska,United States,4619
+228,District of Columbia,United States,7820
+229,Florida,United States,8812
+230,Massachusetts,United States,3551
+231,Illinois,United States,7127
+232,Texas,United States,7614
+233,California,United States,8418
+234,Utah,United States,6369
+235,Kentucky,United States,8837
+236,Kansas,United States,1829
+237,Oregon,United States,4989
+238,New York,United States,6335
+239,Colorado,United States,5811
+240,Arizona,United States,3798
+241,Oregon,United States,5921
+242,Delaware,United States,9480
+243,Tennessee,United States,8590
+244,Texas,United States,3964
+245,District of Columbia,United States,4297
+246,Georgia,United States,1055
+247,Texas,United States,9291
+248,Washington,United States,7199
+249,North Carolina,United States,4991
+250,Tennessee,United States,3808
+251,New York,United States,6668
+252,Minnesota,United States,4097
+253,Pennsylvania,United States,4589
+254,Nevada,United States,9570
+255,Texas,United States,6494
+256,South Carolina,United States,5990
+257,North Dakota,United States,1515
+258,Florida,United States,7348
+259,District of Columbia,United States,6587
+260,Illinois,United States,4864
+261,California,United States,6799
+262,District of Columbia,United States,5101
+263,New York,United States,4357
+264,Indiana,United States,7696
+265,Texas,United States,1804
+266,Texas,United States,6561
+267,District of Columbia,United States,9726
+268,California,United States,1378
+269,New York,United States,5535
+270,Louisiana,United States,4304
+271,Alabama,United States,4560
+272,Arizona,United States,6766
+273,Tennessee,United States,5626
+274,Indiana,United States,7122
+275,Ohio,United States,7888
+276,Texas,United States,9013
+277,Illinois,United States,6452
+278,Indiana,United States,8685
+279,New Hampshire,United States,7107
+280,Kansas,United States,3744
+281,Utah,United States,5968
+282,Pennsylvania,United States,9471
+283,District of Columbia,United States,5954
+284,Montana,United States,5628
+285,California,United States,2836
+286,Minnesota,United States,4982
+287,Minnesota,United States,3144
+288,Texas,United States,9280
+289,Florida,United States,4512
+290,Connecticut,United States,9752
+291,Nevada,United States,7694
+292,Kentucky,United States,6323
+293,Texas,United States,8879
+294,Louisiana,United States,3164
+295,New York,United States,8399
+296,Texas,United States,2630
+297,Oklahoma,United States,9187
+298,Pennsylvania,United States,7486
+299,California,United States,1522
+300,South Dakota,United States,3803
+301,Washington,United States,8231
+302,Alabama,United States,7060
+303,Florida,United States,5122
+304,Missouri,United States,5395
+305,California,United States,6201
+306,Oregon,United States,7014
+307,Tennessee,United States,5603
+308,Texas,United States,2956
+309,Alabama,United States,5189
+310,Arizona,United States,3478
+311,Virginia,United States,3577
+312,Oregon,United States,4501
+313,North Carolina,United States,4442
+314,North Carolina,United States,8925
+315,Tennessee,United States,1685
+316,District of Columbia,United States,7414
+317,Florida,United States,2333
+318,Arizona,United States,1370
+319,Illinois,United States,4805
+320,Florida,United States,4303
+321,Wisconsin,United States,6550
+322,Arizona,United States,9475
+323,Georgia,United States,4973
+324,Missouri,United States,6181
+325,Tennessee,United States,6635
+326,New York,United States,6195
+327,Missouri,United States,8957
+328,New York,United States,9181
+329,Florida,United States,7783
+330,Oklahoma,United States,9384
+331,Ohio,United States,1623
+332,Nevada,United States,2142
+333,Tennessee,United States,2507
+334,North Carolina,United States,8700
+335,California,United States,8873
+336,Georgia,United States,1733
+337,Kansas,United States,3971
+338,Florida,United States,4849
+339,Florida,United States,7659
+340,Florida,United States,6164
+341,Florida,United States,5527
+342,California,United States,7555
+343,New York,United States,1299
+344,Texas,United States,2500
+345,Ohio,United States,4067
+346,New York,United States,4398
+347,Florida,United States,8776
+348,New York,United States,1296
+349,District of Columbia,United States,3497
+350,California,United States,9945
+351,California,United States,7809
+352,Massachusetts,United States,3760
+353,Massachusetts,United States,6863
+354,California,United States,2289
+355,Tennessee,United States,6699
+356,Virginia,United States,8748
+357,Colorado,United States,5840
+358,Missouri,United States,5764
+359,Indiana,United States,8462
+360,Texas,United States,1417
+361,Nevada,United States,3450
+362,Michigan,United States,4670
+363,California,United States,7733
+364,New York,United States,8302
+365,Florida,United States,8113
+366,Texas,United States,7196
+367,Missouri,United States,6780
+368,California,United States,9059
+369,Virginia,United States,1743
+370,District of Columbia,United States,8582
+371,South Carolina,United States,4908
+372,Arizona,United States,7024
+373,Georgia,United States,1828
+374,Washington,United States,8201
+375,Mississippi,United States,5557
+376,Texas,United States,3387
+377,New York,United States,7396
+378,Missouri,United States,6680
+379,Arizona,United States,2653
+380,Texas,United States,5981
+381,Ohio,United States,9538
+382,Texas,United States,2039
+383,Nevada,United States,6284
+384,Pennsylvania,United States,8353
+385,Georgia,United States,3451
+386,California,United States,1774
+387,Texas,United States,4621
+388,Virginia,United States,6194
+389,District of Columbia,United States,1736
+390,Florida,United States,6121
+391,Texas,United States,8772
+392,Texas,United States,3513
+393,New York,United States,4381
+394,Illinois,United States,7746
+395,New York,United States,2205
+396,District of Columbia,United States,5267
+397,California,United States,9044
+398,Texas,United States,5821
+399,California,United States,3409
+400,California,United States,7989
+401,Georgia,United States,1384
+402,Hawaii,United States,3810
+403,Oklahoma,United States,6608
+404,Ohio,United States,5415
+405,Texas,United States,5735
+406,Ohio,United States,3235
+407,Michigan,United States,9539
+408,Michigan,United States,8123
+409,Texas,United States,4341
+410,New York,United States,9465
+411,California,United States,2023
+412,Tennessee,United States,9757
+413,Minnesota,United States,2641
+414,District of Columbia,United States,9497
+415,Texas,United States,5204
+416,Washington,United States,6768
+417,California,United States,7403
+418,Utah,United States,2316
+419,Texas,United States,5877
+420,Texas,United States,9061
+421,Colorado,United States,2777
+422,West Virginia,United States,7894
+423,Virginia,United States,6959
+424,Florida,United States,8746
+425,Hawaii,United States,3774
+426,Texas,United States,4016
+427,Kentucky,United States,1219
+428,New Jersey,United States,1632
+429,Colorado,United States,1147
+430,California,United States,2147
+431,Michigan,United States,3790
+432,Pennsylvania,United States,4333
+433,Florida,United States,9976
+434,California,United States,3462
+435,New Jersey,United States,1212
+436,Texas,United States,8432
+437,Texas,United States,6294
+438,California,United States,1889
+439,Pennsylvania,United States,6447
+440,Idaho,United States,4801
+441,North Carolina,United States,1307
+442,New York,United States,7720
+443,Kansas,United States,4717
+444,Kansas,United States,1471
+445,New York,United States,1049
+446,Missouri,United States,6740
+447,Florida,United States,4151
+448,Arkansas,United States,8086
+449,New York,United States,3117
+450,Arizona,United States,9218
+451,Iowa,United States,5622
+452,Florida,United States,9768
+453,Nevada,United States,5211
+454,Texas,United States,4841
+455,South Carolina,United States,4912
+456,Massachusetts,United States,9855
+457,Arizona,United States,1465
+458,District of Columbia,United States,5010
+459,Michigan,United States,8742
+460,Oregon,United States,6771
+461,Illinois,United States,6663
+462,Florida,United States,3331
+463,Florida,United States,8371
+464,Maine,United States,5362
+465,Nebraska,United States,3776
+466,Florida,United States,6395
+467,Kansas,United States,1164
+468,Ohio,United States,6300
+469,Minnesota,United States,4208
+470,District of Columbia,United States,3987
+471,Massachusetts,United States,3555
+472,New York,United States,2363
+473,Florida,United States,9713
+474,Mississippi,United States,6599
+475,North Carolina,United States,8248
+476,Delaware,United States,5481
+477,Colorado,United States,9780
+478,Nevada,United States,7215
+479,Texas,United States,2561
+480,New York,United States,7656
+481,Oregon,United States,8466
+482,California,United States,4058
+483,New York,United States,7611
+484,New York,United States,2658
+485,Virginia,United States,2030
+486,California,United States,5124
+487,Nebraska,United States,2853
+488,Texas,United States,3911
+489,Texas,United States,4918
+490,Utah,United States,7614
+491,Washington,United States,7120
+492,Pennsylvania,United States,5828
+493,Nevada,United States,1161
+494,New Mexico,United States,5759
+495,Colorado,United States,1387
+496,California,United States,1539
+497,Tennessee,United States,5343
+498,Massachusetts,United States,8802
+499,Virginia,United States,1320
+500,Florida,United States,9050
+501,Florida,United States,3926
+502,Texas,United States,3843
+503,Michigan,United States,2057
+504,Hawaii,United States,5749
+505,California,United States,8621
+506,California,United States,3120
+507,Pennsylvania,United States,8785
+508,Indiana,United States,4236
+509,Indiana,United States,6939
+510,Florida,United States,2468
+511,New York,United States,4108
+512,Georgia,United States,2775
+513,Georgia,United States,9539
+514,Florida,United States,8793
+515,Massachusetts,United States,3133
+516,California,United States,4744
+517,Louisiana,United States,4829
+518,Ohio,United States,7264
+519,West Virginia,United States,1890
+520,Florida,United States,3719
+521,Oregon,United States,2310
+522,Pennsylvania,United States,1652
+523,Mississippi,United States,1979
+524,Massachusetts,United States,7849
+525,Oregon,United States,8087
+526,Oklahoma,United States,9849
+527,Tennessee,United States,3443
+528,Wisconsin,United States,6916
+529,Ohio,United States,5034
+530,Wisconsin,United States,1114
+531,Kansas,United States,9026
+532,Florida,United States,6278
+533,Virginia,United States,3759
+534,Pennsylvania,United States,1069
+535,Colorado,United States,6045
+536,California,United States,7775
+537,Florida,United States,5793
+538,Florida,United States,2229
+539,Florida,United States,6508
+540,Virginia,United States,6733
+541,Arizona,United States,7112
+542,Georgia,United States,2950
+543,Ohio,United States,9671
+544,Minnesota,United States,7359
+545,New York,United States,6682
+546,Connecticut,United States,3308
+547,Ohio,United States,3367
+548,Louisiana,United States,9131
+549,Oklahoma,United States,3917
+550,California,United States,5702
+551,Texas,United States,7899
+552,Virginia,United States,4862
+553,Georgia,United States,6139
+554,Utah,United States,8473
+555,Illinois,United States,9436
+556,Louisiana,United States,7609
+557,California,United States,8159
+558,Arizona,United States,2901
+559,California,United States,2777
+560,Florida,United States,4286
+561,Oregon,United States,6121
+562,Mississippi,United States,3819
+563,Texas,United States,9402
+564,Virginia,United States,9708
+565,South Carolina,United States,8169
+566,New York,United States,2435
+567,Florida,United States,6141
+568,Kansas,United States,7854
+569,Georgia,United States,2177
+570,Louisiana,United States,9914
+571,California,United States,4666
+572,Texas,United States,1342
+573,Florida,United States,2644
+574,Alaska,United States,9044
+575,Alabama,United States,4648
+576,California,United States,2581
+577,Florida,United States,4667
+578,Texas,United States,8450
+579,Arizona,United States,9968
+580,Nebraska,United States,3994
+581,Illinois,United States,2843
+582,Virginia,United States,6679
+583,Illinois,United States,1240
+584,Alabama,United States,1135
+585,Illinois,United States,8075
+586,Arizona,United States,8558
+587,California,United States,6895
+588,Minnesota,United States,5708
+589,Ohio,United States,4633
+590,Missouri,United States,2716
+591,Texas,United States,4830
+592,District of Columbia,United States,5192
+593,Illinois,United States,5992
+594,New York,United States,9928
+595,Georgia,United States,5695
+596,California,United States,2216
+597,Florida,United States,1131
+598,Oregon,United States,3799
+599,California,United States,6047
+600,Tennessee,United States,1986
+601,California,United States,3043
+602,Virginia,United States,9983
+603,Virginia,United States,1266
+604,New Jersey,United States,3604
+605,Florida,United States,5924
+606,California,United States,5953
+607,Georgia,United States,5824
+608,Ohio,United States,1350
+609,New Jersey,United States,9538
+610,Virginia,United States,2427
+611,Texas,United States,9576
+612,California,United States,8959
+613,Oklahoma,United States,2493
+614,Florida,United States,4773
+615,California,United States,8424
+616,North Carolina,United States,9431
+617,Virginia,United States,1215
+618,Ohio,United States,8219
+619,California,United States,1337
+620,California,United States,5235
+621,Colorado,United States,5530
+622,California,United States,9230
+623,Colorado,United States,8486
+624,Texas,United States,6563
+625,California,United States,6964
+626,Virginia,United States,9724
+627,California,United States,7037
+628,District of Columbia,United States,7884
+629,Connecticut,United States,8243
+630,Texas,United States,7199
+631,Florida,United States,3216
+632,New York,United States,4343
+633,Oklahoma,United States,5806
+634,New York,United States,9498
+635,Virginia,United States,6898
+636,Pennsylvania,United States,2326
+637,Iowa,United States,6002
+638,California,United States,5553
+639,California,United States,2258
+640,District of Columbia,United States,8404
+641,California,United States,8242
+642,District of Columbia,United States,8096
+643,Texas,United States,6626
+644,Texas,United States,5013
+645,Maryland,United States,3137
+646,California,United States,9960
+647,North Carolina,United States,5418
+648,Michigan,United States,1025
+649,Washington,United States,8932
+650,North Carolina,United States,7601
+651,South Dakota,United States,1901
+652,Massachusetts,United States,5492
+653,New York,United States,9378
+654,Tennessee,United States,8869
+655,Texas,United States,1105
+656,Missouri,United States,5229
+657,Alaska,United States,5798
+658,Ohio,United States,9005
+659,Ohio,United States,6708
+660,Texas,United States,6208
+661,District of Columbia,United States,5099
+662,Florida,United States,6848
+663,Florida,United States,8435
+664,Florida,United States,4544
+665,Texas,United States,4731
+666,Florida,United States,1576
+667,Indiana,United States,2325
+668,Texas,United States,3034
+669,Texas,United States,8909
+670,Florida,United States,7203
+671,Florida,United States,9013
+672,Arizona,United States,9634
+673,Florida,United States,1169
+674,Michigan,United States,3452
+675,Oregon,United States,5746
+676,Missouri,United States,2473
+677,Texas,United States,2552
+678,Texas,United States,3077
+679,Texas,United States,8374
+680,Illinois,United States,2057
+681,Florida,United States,8952
+682,Florida,United States,9909
+683,Pennsylvania,United States,4553
+684,New York,United States,6977
+685,Florida,United States,7594
+686,New York,United States,6809
+687,Kentucky,United States,6651
+688,Pennsylvania,United States,3617
+689,District of Columbia,United States,7689
+690,Texas,United States,7638
+691,Texas,United States,5688
+692,Indiana,United States,7180
+693,District of Columbia,United States,6029
+694,Mississippi,United States,6139
+695,Washington,United States,6014
+696,Hawaii,United States,9861
+697,Michigan,United States,2356
+698,Ohio,United States,3165
+699,Wisconsin,United States,2898
+700,Arkansas,United States,8165
+701,Texas,United States,1240
+702,Iowa,United States,7664
+703,Georgia,United States,9049
+704,Texas,United States,4973
+705,Texas,United States,8475
+706,Florida,United States,2957
+707,Texas,United States,6793
+708,California,United States,2891
+709,Ohio,United States,8647
+710,New York,United States,2503
+711,New York,United States,6333
+712,Texas,United States,5644
+713,Texas,United States,3546
+714,Iowa,United States,2507
+715,Idaho,United States,6689
+716,Florida,United States,4935
+717,Nebraska,United States,8524
+718,Florida,United States,5538
+719,Illinois,United States,8808
+720,Wisconsin,United States,9366
+721,Tennessee,United States,3891
+722,Nebraska,United States,7487
+723,Kansas,United States,9137
+724,Arizona,United States,6770
+725,Arizona,United States,7305
+726,Missouri,United States,5767
+727,District of Columbia,United States,5775
+728,District of Columbia,United States,8012
+729,Florida,United States,2119
+730,Florida,United States,6592
+731,North Carolina,United States,4958
+732,Illinois,United States,5035
+733,California,United States,9423
+734,Ohio,United States,2966
+735,Connecticut,United States,6073
+736,Florida,United States,5274
+737,New Jersey,United States,3819
+738,Arizona,United States,2353
+739,District of Columbia,United States,3692
+740,Florida,United States,8997
+741,South Carolina,United States,9357
+742,Texas,United States,3605
+743,Texas,United States,8019
+744,New York,United States,2112
+745,Ohio,United States,5074
+746,Illinois,United States,2499
+747,Nebraska,United States,2764
+748,California,United States,3061
+749,New York,United States,4826
+750,Colorado,United States,7902
+751,Pennsylvania,United States,7760
+752,District of Columbia,United States,7875
+753,South Dakota,United States,2877
+754,New York,United States,6175
+755,Idaho,United States,7078
+756,Georgia,United States,6866
+757,Florida,United States,1432
+758,New York,United States,4533
+759,Kentucky,United States,5875
+760,Hawaii,United States,3102
+761,Alabama,United States,9095
+762,Virginia,United States,1001
+763,Texas,United States,8202
+764,Vermont,United States,1273
+765,Washington,United States,5138
+766,Texas,United States,6846
+767,Massachusetts,United States,5839
+768,District of Columbia,United States,1787
+769,Kentucky,United States,9841
+770,Missouri,United States,3938
+771,Illinois,United States,8341
+772,Kansas,United States,8928
+773,Kansas,United States,8578
+774,Alabama,United States,1626
+775,New York,United States,9775
+776,Hawaii,United States,5848
+777,Texas,United States,3607
+778,Georgia,United States,8469
+779,Florida,United States,6075
+780,Texas,United States,3313
+781,New York,United States,4834
+782,District of Columbia,United States,7171
+783,Florida,United States,3128
+784,California,United States,7752
+785,California,United States,3287
+786,New Hampshire,United States,6918
+787,Nevada,United States,3916
+788,Florida,United States,4649
+789,Washington,United States,3816
+790,Kentucky,United States,4001
+791,Arizona,United States,7832
+792,New York,United States,7240
+793,California,United States,1817
+794,Indiana,United States,5510
+795,Georgia,United States,1871
+796,Indiana,United States,3155
+797,Florida,United States,2819
+798,Alabama,United States,3981
+799,Michigan,United States,8613
+800,District of Columbia,United States,7368
+801,Pennsylvania,United States,8245
+802,Washington,United States,3468
+803,Tennessee,United States,4893
+804,Alabama,United States,9786
+805,California,United States,5954
+806,Washington,United States,6966
+807,Alabama,United States,2653
+808,District of Columbia,United States,8281
+809,Connecticut,United States,4640
+810,Texas,United States,4611
+811,Georgia,United States,7263
+812,Oregon,United States,8560
+813,Rhode Island,United States,5525
+814,Texas,United States,7187
+815,Indiana,United States,9791
+816,Pennsylvania,United States,6150
+817,California,United States,2025
+818,California,United States,4358
+819,Ohio,United States,2453
+820,Pennsylvania,United States,5813
+821,Colorado,United States,2191
+822,Texas,United States,2082
+823,Ohio,United States,9536
+824,Colorado,United States,6680
+825,California,United States,7858
+826,North Carolina,United States,8112
+827,Minnesota,United States,6297
+828,Ohio,United States,9480
+829,Texas,United States,3500
+830,Virginia,United States,6918
+831,Texas,United States,5369
+832,Texas,United States,4519
+833,Virginia,United States,6263
+834,Kansas,United States,8339
+835,North Carolina,United States,5661
+836,Florida,United States,7709
+837,Florida,United States,3351
+838,Washington,United States,1183
+839,Oklahoma,United States,9655
+840,Pennsylvania,United States,5991
+841,Georgia,United States,6462
+842,Ohio,United States,9871
+843,New Mexico,United States,5100
+844,California,United States,3101
+845,Colorado,United States,8435
+846,New York,United States,3058
+847,Texas,United States,9797
+848,Texas,United States,2906
+849,Utah,United States,6369
+850,California,United States,3528
+851,California,United States,8652
+852,North Carolina,United States,1277
+853,New York,United States,3693
+854,California,United States,1802
+855,New York,United States,9287
+856,Washington,United States,1575
+857,Connecticut,United States,7232
+858,Wisconsin,United States,6239
+859,Kentucky,United States,1019
+860,California,United States,8536
+861,California,United States,9573
+862,Ohio,United States,5299
+863,Texas,United States,8577
+864,Virginia,United States,9785
+865,Nevada,United States,5642
+866,California,United States,7073
+867,Arizona,United States,1050
+868,Texas,United States,7115
+869,Wisconsin,United States,1642
+870,California,United States,3316
+871,Colorado,United States,7339
+872,Virginia,United States,6180
+873,Florida,United States,4055
+874,California,United States,3303
+875,Texas,United States,5148
+876,Pennsylvania,United States,5004
+877,Nevada,United States,4987
+878,Virginia,United States,8909
+879,California,United States,8669
+880,North Carolina,United States,2044
+881,Texas,United States,3819
+882,District of Columbia,United States,8788
+883,District of Columbia,United States,7453
+884,New York,United States,1097
+885,Iowa,United States,3146
+886,Nevada,United States,3088
+887,Texas,United States,7706
+888,Colorado,United States,2139
+889,Florida,United States,2065
+890,Kentucky,United States,5131
+891,Georgia,United States,7883
+892,New York,United States,2636
+893,Florida,United States,3162
+894,South Carolina,United States,9552
+895,Ohio,United States,6910
+896,Alaska,United States,5945
+897,Kentucky,United States,5634
+898,Arizona,United States,2071
+899,Kansas,United States,6410
+900,Georgia,United States,5309
+901,Virginia,United States,7898
+902,Florida,United States,3954
+903,California,United States,3986
+904,Ohio,United States,4114
+905,Georgia,United States,2203
+906,North Carolina,United States,1061
+907,Texas,United States,6185
+908,Alaska,United States,8069
+909,California,United States,8834
+910,District of Columbia,United States,8401
+911,District of Columbia,United States,9787
+912,West Virginia,United States,6839
+913,Connecticut,United States,7097
+914,Alabama,United States,9711
+915,New York,United States,7458
+916,Indiana,United States,9717
+917,Texas,United States,3798
+918,Tennessee,United States,1144
+919,Missouri,United States,8370
+920,California,United States,6910
+921,Georgia,United States,8888
+922,California,United States,4791
+923,Missouri,United States,4562
+924,Texas,United States,6302
+925,New Mexico,United States,8668
+926,Indiana,United States,2928
+927,New York,United States,7068
+928,Utah,United States,3508
+929,Vermont,United States,6861
+930,Florida,United States,6551
+931,Florida,United States,4363
+932,Alaska,United States,7974
+933,Texas,United States,5788
+934,California,United States,8971
+935,Washington,United States,9593
+936,Connecticut,United States,4510
+937,Arizona,United States,7658
+938,Georgia,United States,1478
+939,New Mexico,United States,2895
+940,Mississippi,United States,6298
+941,Illinois,United States,9133
+942,California,United States,9745
+943,Minnesota,United States,4770
+944,Texas,United States,3505
+945,Missouri,United States,3202
+946,California,United States,8665
+947,Iowa,United States,1188
+948,Colorado,United States,5024
+949,Texas,United States,5499
+950,Tennessee,United States,9672
+951,Oklahoma,United States,3062
+952,Michigan,United States,4726
+953,Alaska,United States,1834
+954,Hawaii,United States,1242
+955,Texas,United States,9588
+956,Kentucky,United States,6054
+957,Arizona,United States,3002
+958,Indiana,United States,8259
+959,Texas,United States,9350
+960,Illinois,United States,5546
+961,Connecticut,United States,2833
+962,Missouri,United States,9483
+963,Virginia,United States,1631
+964,Alabama,United States,2758
+965,Arizona,United States,8336
+966,District of Columbia,United States,5830
+967,Kansas,United States,2290
+968,Missouri,United States,6764
+969,Virginia,United States,7981
+970,Oregon,United States,2808
+971,Colorado,United States,1046
+972,Nebraska,United States,5261
+973,Connecticut,United States,4998
+974,California,United States,8984
+975,North Carolina,United States,2996
+976,Illinois,United States,9314
+977,Florida,United States,1199
+978,Florida,United States,7421
+979,North Carolina,United States,4618
+980,Virginia,United States,6853
+981,Texas,United States,9139
+982,Virginia,United States,7592
+983,Florida,United States,4598
+984,Louisiana,United States,1532
+985,New York,United States,4852
+986,Minnesota,United States,9825
+987,North Carolina,United States,8352
+988,Arizona,United States,3230
+989,Florida,United States,9099
+990,California,United States,3971
+991,Alabama,United States,6901
+992,Kansas,United States,3852
+993,Texas,United States,3530
+994,District of Columbia,United States,6308
+995,Pennsylvania,United States,6557
+996,Oklahoma,United States,9064
+997,Texas,United States,3050
+998,Ohio,United States,2619
+999,Ohio,United States,5466
+1000,Virginia,United States,3972

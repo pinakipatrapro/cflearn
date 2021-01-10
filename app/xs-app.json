@@ -10,7 +10,7 @@
         },
         {
             "source": "/(.*)",
-            "authenticationType": "none",
+            "authenticationType": "xsuaa",
             "scope": "uaa.user",
             "localDir": "resource"
         }
